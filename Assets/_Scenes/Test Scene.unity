@@ -1360,7 +1360,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnPrefab: {fileID: 5686325268892749824, guid: 216613b3d118d8c4d82f20bfd20ef513, type: 3}
-  spawnTime: 1
+  spawnTime: 1.5
 --- !u!4 &2000107786
 Transform:
   m_ObjectHideFlags: 0
@@ -1389,7 +1389,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1828568217}
-  speed: 40
+  speed: 35
 --- !u!1 &2040895980
 GameObject:
   m_ObjectHideFlags: 0
